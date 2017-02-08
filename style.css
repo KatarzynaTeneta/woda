@@ -1,0 +1,60 @@
+body{
+	background-image: url(http://xn--wodospadywiata-eyc.pl/wp-content/uploads/2016/01/drzewa-wodospady-krzewy-rzeka.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:100%;
+	background-attachment: fixed;
+	position: relative;
+}
+.navi{
+	position: fixed;
+	top:0;
+	left: 0;
+	right: 0;
+	width:100%;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    display: block;
+}
+.menu{
+	list-style: none;
+}
+li{
+	display: inline-block;
+	width: 23%;
+}
+a{
+	text-transform:uppercase;
+	text-decoration: none;
+	color: #D4FFAA;
+	text-align:center;
+	font-size:100%
+	margin:0px 100px;
+}
+a:hover{
+	color:#55FF00;
+}
+
+h1{ 
+	height: 10rem;
+	line-height: 10rem;
+	margin top: 30% ;
+	margin-bottom: 10%;
+	text-align: center;
+	color: #DCDC87;
+	font-size: 3rem;
+	width:100%;
+	}
+p{
+		margin-top: 4rem;
+		display: block;
+		font-size: 1rem;
+		line-height: 2rem;
+		color:#DCDC87;
+		font-weight: bold;
+		background-color:black;
+	}
+
+	
+
+	
